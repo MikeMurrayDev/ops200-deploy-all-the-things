@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "change_calculator": "https://mm-change-calculator.heroku.com",
+  "mortgage_calculator": "https://mm-mortgage-calculator.heroku.com",
+  "top_spots": "https://mm-top-spots.heroku.com",
+  "vstda": "https://mm-vstda.heroku.com",
+  "hackathon": "https://mm-chuckathon.heroku.com"
 }
